@@ -7,7 +7,7 @@ import X0
 
 
 
-API_TOKEN= "5488460139:AAEt4UhSUVmQsyshp3D8Pg8-YJpKeXbk8SQ"
+API_TOKEN= "ID"
 bot = telebot.TeleBot(API_TOKEN)
 
 
